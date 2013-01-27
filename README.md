@@ -11,8 +11,8 @@ GMT-FilterScripts
 
 ●本版块所有资源允许用户下载,并进行二次开发,需要保留原作者信息.
 
-●严禁将本版块所属资源用作任何商业用途.
+●未经许可，严禁将本版块所属资源用作任何商业用途.
 
-●本版块运行将由 CPL [Common Public License] 保护运作.
+●本版块运行将由 通用公共许可证 [Common Public License] 保护运作.
 
 ●违规操作者将以《中华人民共和国知识产权法》以及美国《版权法》[Copyright law of the United States],我们将保留法律诉讼的权利.
