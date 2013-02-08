@@ -11,7 +11,4 @@ GMT-FilterScripts
 
 ●本版块运行将基于GPL V3 许可证以及 MIT 许可证进行操作 详情请关注许可页面(LICENSES).
 
-●未经许可，严禁将本版块所属资源用作任何商业用途.
-
-
 ●违规操作者将以《中华人民共和国知识产权法》以及美国《版权法》[Copyright law of the United States],我们将保留法律诉讼的权利.
